@@ -1,0 +1,10 @@
+END!
+импортинг завершён
+
+Cannot open old_sql\configs_2016-06-29.sqlite
+Процесс не может получить доступ к файлу, так как этот файл занят другим процесс
+ом.Ошибка
+создан rar 2016-06-29
+Ошибка
+
+C:\Users\pisarenko\Dropbox\Programming\makeSQLconfigs>

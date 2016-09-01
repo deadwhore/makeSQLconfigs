@@ -1,0 +1,5 @@
+серийные номера без offline и error
+select * from Hardware where serial not null and serial not like "offline" and serial not like "error"
+
+порты по айпи
+select Ports.name, Ports.description, Ports.vlan from Ports join Switch on Switch.id_switch = Ports.id_switch and Switch.ip_switch="10.45.0.35"
